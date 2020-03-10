@@ -14,6 +14,6 @@ But for better time efficiency as the training data is very large, we recommend 
 # Actor-Critic RL:
 
 This Python 3 notebook is an attempt of an RL classifier implementation, runnable in any device.
-We based our implementation on the method describes in the articles below:
+We based our implementation on the methods described in the articles below:
 - https://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/rl_classification.pdf?fbclid=IwAR2x6X67XWguH4KyXH1QIvqULb9qDPkHQqEcAntAJITVxYeJGdFcuKvB8f8
 - https://openreview.net/pdf?id=Sy7m72Ogg&fbclid=IwAR2j9ad2TfRC-dKZIdUxsPbQm5Q-u9DwC7PYVlLlMTnKEGqjFpB36YQYEUY
